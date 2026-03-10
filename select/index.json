@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イマ コノ トキ ダケ（姫BB）",
+  "base_artist": "Daito Music",
+  "createdAt": "2026-03-10T15:34:41.902898Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イマ コノ トキ ダケ",
+      "artist": "Daito",
+      "has_synced": false,
+      "path": "select/pl_01_イマ_コノ_トキ_ダケ_Daito.txt"
+    }
+  ]
+}
